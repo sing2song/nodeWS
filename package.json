@@ -1,0 +1,22 @@
+{
+  "name": "nodews",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sing2song/nodeWS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sing2song/nodeWS/issues"
+  },
+  "homepage": "https://github.com/sing2song/nodeWS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
